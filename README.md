@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArpnetInfor
-- 👀 I’m interested in  aprender programação
-- 🌱 I’m currently learning  JAVA, e  já vi alguma coisa de JAVASCRIPT  e sei que não é considerado uma linguagem de programação, mais já vi alguma coisa de HTML e CSS.
-- 💞️ I’m looking to collaborate on  projetos autonomo ou corporativo
+- 👀 I'm interested in learning programming
+- 🌱 I'm currently learning JAVA, and I've seen some JAVASCRIPT stuff and I know it's not considered a programming language, but I've seen some HTML and CSS.
+- 💞️ I try to collaborate on autonomous or corporate projects
 - 📫 How to reach me:  tron_davi@hotmail.com
 
 <!---
